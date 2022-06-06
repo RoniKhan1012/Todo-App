@@ -1,0 +1,9 @@
+.todos{
+    width: 50%;
+    background-color: cadetblue;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    overflow: scroll;
+    height: 60vh;
+}
